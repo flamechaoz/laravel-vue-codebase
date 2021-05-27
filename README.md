@@ -1,3 +1,7 @@
+# Laravel Vue Codebase
+This is a repository containing a simple codebase for Laravel Vue projects.
+This repository has a number of packages installed including Vuetify, Vuex, and Vue router.
+
 ## Setup
 
 1. Create .env file and copy the contents of .env.example to the .env 
