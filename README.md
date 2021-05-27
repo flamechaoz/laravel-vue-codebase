@@ -1,5 +1,3 @@
-# Watch-Beta
-
 ## Setup
 
 1. Create .env file and copy the contents of .env.example to the .env 
